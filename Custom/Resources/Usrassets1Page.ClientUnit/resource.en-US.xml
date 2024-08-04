@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;الاجهزة&quot;" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV205aac05eDetailCaptionOnPage.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.ESNTabGroup38082201GroupCaption.Value" Value="Devices" />
+			<Item Name="LocalizableStrings.ESNTabGroupb20e81e0GroupCaption.Value" Value="Camera" />
+			<Item Name="LocalizableStrings.Tab028f21d6TabLabelGroup2db47d3fGroupCaption.Value" Value="بيانات الجهاز" />
+			<Item Name="LocalizableStrings.Tab028f21d6TabLabelTabCaption.Value" Value="الجهاز" />
+			<Item Name="LocalizableStrings.Tab3b86abddTabLabelGroup475e110aGroupCaption.Value" Value="Notes" />
+			<Item Name="LocalizableStrings.Tab3b86abddTabLabelTabCaption.Value" Value="Notes" />
+		</Items>
+	</Group>
+</Resources>

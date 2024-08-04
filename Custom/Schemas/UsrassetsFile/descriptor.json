@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "534e3a84-aba7-4f21-9c01-9faa8e9042a1",
+    "Name": "UsrassetsFile",
+    "ModifiedOnUtc": "\/Date(1717842315000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "الاجهزة attachment",
+    "DependsOn": []
+  }
+}

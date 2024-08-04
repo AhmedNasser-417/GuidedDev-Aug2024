@@ -1,0 +1,40 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "fa7ed3cf-797a-494a-ad77-b817a5ac0672"
+        },
+        {
+          "SchemaColumnUId": "08ccfffd-cb3e-47c3-9729-1d043a5812e4",
+          "Value": "\/Date(1718053549371+0200)\/"
+        },
+        {
+          "SchemaColumnUId": "1e236958-f206-4fde-8a0e-6783fc223424",
+          "Value": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAdgAAAHYBTnsmCAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAFRSURBVDiNldMxaFNRFAbgzyRGO2mTZiuKJXRUQRAFi0vatViRgENBRFqhUBzUwVFQ3CwdiouO2qVb6dK9FCoUBxFxsSA6ZLCUuFhah3deeTwjeZ7lXv5z/nP//557yxjDQ0ygis/6xwzuYR8WAxzE4wLkObzFLSyV0C1ASmMWZezhBrYruYImWv8gX8JXvMM8rmG9VPDkuxlyGyfxCk/yCr5gPYfV8Bw/glzDi8i18g16xRS28DJUtLPJfhYmo2YgbCzgQdEGdUzjfQbbxXnJhdahl4WnOIEOljGC07HCSuzvo9NLQRXPsBnFvwPvYjVUrMUBRxbOYhw/MYQlnArPqYKm5NVW8Abn0gaTuCkZ02vJZaWv8zg+RO4jDnCI72Iax6LbnYyFBoZxARth4Qx2JNO4LBnrNzyq+PsvXEzl4XoGH83sr+JTquAKbuOX/4/GH67SQShOwFfoAAAAAElFTkSuQmCC"
+        },
+        {
+          "SchemaColumnUId": "90801d7c-a189-4afe-9c3a-a202fbf242d8",
+          "Value": "null"
+        },
+        {
+          "SchemaColumnUId": "aebb8105-4a48-883c-e068-74ad2ab797a7",
+          "Value": ""
+        },
+        {
+          "SchemaColumnUId": "b3cd8485-7bd8-4b70-b2dd-bc41e45e9992",
+          "Value": false
+        },
+        {
+          "SchemaColumnUId": "be95e737-14e9-4253-b0c4-e280da05434d",
+          "Value": "image/png"
+        },
+        {
+          "SchemaColumnUId": "d245dcaf-23bd-4b73-8718-26fdf38b443b",
+          "Value": "%D8%A7%D9%84%D9%86%D9%85%D8%A7%D8%B0%D8%AC.png"
+        }
+      ]
+    }
+  ]
+}

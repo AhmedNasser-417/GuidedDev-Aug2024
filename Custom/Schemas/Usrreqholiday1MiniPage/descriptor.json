@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "dd897c80-4ed1-4f9c-a3e4-aeb4336d9365",
+    "Name": "Usrreqholiday1MiniPage",
+    "ModifiedOnUtc": "\/Date(1720000111000)\/",
+    "Parent": {
+      "UId": "8e06a577-08e4-424e-bd89-798a34e1b928",
+      "Name": "BaseMiniPage"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Usrreqholiday1MiniPage",
+    "DependsOn": []
+  }
+}

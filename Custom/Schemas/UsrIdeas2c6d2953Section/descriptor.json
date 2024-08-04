@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d1bdb5f1-4a8c-4cd4-9ffb-7a4c531cfb2c",
+    "Name": "UsrIdeas2c6d2953Section",
+    "ModifiedOnUtc": "\/Date(1717581374000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"Ideas\"",
+    "DependsOn": []
+  }
+}

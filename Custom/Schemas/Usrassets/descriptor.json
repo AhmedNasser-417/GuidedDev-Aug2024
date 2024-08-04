@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "00ac2a5d-8ad0-4baf-9e6d-3db413c665a5",
+    "Name": "Usrassets",
+    "ModifiedOnUtc": "\/Date(1717842793000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "الاجهزة",
+    "DependsOn": []
+  }
+}

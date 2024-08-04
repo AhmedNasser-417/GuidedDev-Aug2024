@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c23dadaa-fdbf-42ed-80ba-159d028801d2",
+    "Name": "Usrassetrecievede839a2bSection",
+    "ModifiedOnUtc": "\/Date(1718049781000)\/",
+    "Parent": {
+      "UId": "7912fb69-4fee-429f-8b23-93943c35d66d",
+      "Name": "BaseSectionV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Section schema: \"تسليم العهد\"",
+    "DependsOn": []
+  }
+}

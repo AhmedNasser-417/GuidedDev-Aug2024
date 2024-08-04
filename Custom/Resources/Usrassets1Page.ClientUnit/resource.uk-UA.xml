@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="uk-UA">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;الاجهزة&quot;" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV205aac05eDetailCaptionOnPage.Value" Value="Контакти контрагента" />
+		</Items>
+	</Group>
+</Resources>

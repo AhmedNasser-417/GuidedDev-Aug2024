@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "d71f038d-11f6-4040-888c-635072f7a28b",
+    "Name": "Usrequesttype",
+    "ModifiedOnUtc": "\/Date(1718049806000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "نوع الطلب",
+    "DependsOn": []
+  }
+}

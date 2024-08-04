@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="طلبات الاجازة" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="اجازة بدون مرتب ؟" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="اجازة من تاريخ" />
+			<Item Name="Columns.UsrDatetime2.Caption" Value="اجازة الي تاريخ" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="نوع الاجازة" />
+			<Item Name="Columns.UsrName.Caption" Value="كود الطلب" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrString1.Caption" Value="تفاصيل الاجازة" />
+		</Items>
+	</Group>
+</Resources>

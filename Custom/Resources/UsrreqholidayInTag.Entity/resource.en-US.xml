@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="طلبات الاجازة section record tag" />
+			<Item Name="Columns.Entity.Caption" Value="طلبات الاجازة" />
+			<Item Name="Columns.Tag.Caption" Value="طلبات الاجازة section tag" />
+		</Items>
+	</Group>
+</Resources>

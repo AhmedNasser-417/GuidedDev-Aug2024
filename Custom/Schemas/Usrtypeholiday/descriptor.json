@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "33e45428-e555-4bd9-9d11-275300d7bd80",
+    "Name": "Usrtypeholiday",
+    "ModifiedOnUtc": "\/Date(1719998977000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "انواع الاجازات",
+    "DependsOn": []
+  }
+}

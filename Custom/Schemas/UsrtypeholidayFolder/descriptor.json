@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "07150253-cb8a-4db4-8f99-89c6a72e555f",
+    "Name": "UsrtypeholidayFolder",
+    "ModifiedOnUtc": "\/Date(1719998760000)\/",
+    "Parent": {
+      "UId": "d602bf96-d029-4b07-9755-63c8f5cb5ed5",
+      "Name": "BaseFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "نوع الاجازة folder",
+    "DependsOn": []
+  }
+}

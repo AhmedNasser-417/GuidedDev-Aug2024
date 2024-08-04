@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "05ed92e4-8b40-41a6-9b9f-19b26e361285",
+    "Name": "Usrreqholiday",
+    "ModifiedOnUtc": "\/Date(1720428561000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "طلبات الاجازة",
+    "DependsOn": []
+  }
+}

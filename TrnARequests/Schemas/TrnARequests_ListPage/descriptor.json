@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "4549a295-81c0-4880-ba7c-187097083264",
+    "Name": "TrnARequests_ListPage",
+    "ModifiedOnUtc": "\/Date(1720501626000)\/",
+    "Parent": {
+      "UId": "3334b6c0-c8ab-4b59-a367-0c9182102552",
+      "Name": "ListPageV2Template"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests list page",
+    "DependsOn": []
+  }
+}

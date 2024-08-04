@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "156bf99f-a48f-4d8e-91a5-b64c6ca0f712",
+    "Name": "Usrassetrecieve1Page",
+    "ModifiedOnUtc": "\/Date(1718049798000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"تسليم العهد\"",
+    "DependsOn": []
+  }
+}

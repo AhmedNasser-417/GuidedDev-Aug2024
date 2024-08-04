@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "97ef0871-c025-484b-9977-99adc34d4df8",
+    "Name": "TrnARequests",
+    "ModifiedOnUtc": "\/Date(1720515289000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Requests",
+    "DependsOn": []
+  }
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;Ideas&quot;" />
+			<Item Name="LocalizableStrings.AccountContactsDetailV2191f0e12DetailCaptionOnPage.Value" Value="Contacts" />
+			<Item Name="LocalizableStrings.Taba6de2a97TabLabelGroupe2794480GroupCaption.Value" Value="Idea Specification" />
+			<Item Name="LocalizableStrings.Taba6de2a97TabLabelTabCaption.Value" Value="Idea Details" />
+		</Items>
+	</Group>
+</Resources>

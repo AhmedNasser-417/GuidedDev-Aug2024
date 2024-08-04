@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "93dd2f83-d3d8-4b4d-a747-e03eb2625fe8",
+    "Name": "UsrtypeholidayTag",
+    "ModifiedOnUtc": "\/Date(1719998772000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "نوع الاجازة section tag",
+    "DependsOn": []
+  }
+}

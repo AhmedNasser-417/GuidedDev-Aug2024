@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="طلبات العهده" />
+			<Item Name="Columns.Usrassetcode.Caption" Value="كود الجهاز" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="تم استلام الجهاز حسب الشروط واللوائح" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="تاريخ الاسنلام/التسليم" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="نوع الطلب" />
+			<Item Name="Columns.UsrLookup2.Caption" Value="اسم الموظف" />
+			<Item Name="Columns.UsrName.Caption" Value="رقم الطلب" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+		</Items>
+	</Group>
+</Resources>

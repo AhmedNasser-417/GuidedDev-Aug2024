@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "a5825703-28ac-4f4b-8533-3237167196a5",
+    "Name": "UsrIdeas1Page",
+    "ModifiedOnUtc": "\/Date(1717831408000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"Ideas\"",
+    "DependsOn": []
+  }
+}

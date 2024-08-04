@@ -1,0 +1,8 @@
+<Project>
+	<ItemGroup Label="Entity Files" Condition="'$(PkgPath)' != ''">
+		<Compile Include="$(PkgPath)/TrnARequests/Schemas/TrnACategories/TrnACategories.cs" Condition="Exists('$(PkgPath)/TrnARequests/Schemas/TrnACategories/TrnACategories.cs')" />
+		<Compile Include="$(PkgPath)/TrnARequests/Schemas/TrnARequests/TrnARequests.cs" Condition="Exists('$(PkgPath)/TrnARequests/Schemas/TrnARequests/TrnARequests.cs')" />
+		<Compile Include="$(PkgPath)/TrnARequests/Schemas/TrnAStatuses/TrnAStatuses.cs" Condition="Exists('$(PkgPath)/TrnARequests/Schemas/TrnAStatuses/TrnAStatuses.cs')" />
+		<Compile Include="$(PkgPath)/TrnARequests/Schemas/TrnASubcategories/TrnASubcategories.cs" Condition="Exists('$(PkgPath)/TrnARequests/Schemas/TrnASubcategories/TrnASubcategories.cs')" />
+	</ItemGroup>
+</Project>

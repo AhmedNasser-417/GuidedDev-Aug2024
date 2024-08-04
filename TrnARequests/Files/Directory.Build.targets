@@ -1,0 +1,19 @@
+<Project>
+	<ItemGroup Condition="'$(PkgPath)' != ''">
+		<Compile Remove="$(PkgPath)/TrnARequests/Assemblies/**" />
+		<Compile Remove="$(PkgPath)/TrnARequests/Data/**" />
+		<Compile Remove="$(PkgPath)/TrnARequests/SqlScripts/**" />
+		<Compile Remove="$(PkgPath)/TrnARequests/Schemas\**" />
+		<Compile Remove="$(PkgPath)/TrnARequests/Resources/**" />
+		<EmbeddedResource Remove="$(PkgPath)/TrnARequests/Assemblies/**" />
+		<EmbeddedResource Remove="$(PkgPath)/TrnARequests/Data/**" />
+		<EmbeddedResource Remove="$(PkgPath)/TrnARequests/SqlScripts/**" />
+		<EmbeddedResource Remove="$(PkgPath)/TrnARequests/Schemas/**" />
+		<EmbeddedResource Remove="$(PkgPath)/TrnARequests/Resources/**" />
+		<None Remove="$(PkgPath)/TrnARequests/Assemblies/**" />
+		<None Remove="$(PkgPath)/TrnARequests/Data/**" />
+		<None Remove="$(PkgPath)/TrnARequests/SqlScripts/**" />
+		<None Remove="$(PkgPath)/TrnARequests/Schemas/**" />
+		<None Remove="$(PkgPath)/TrnARequests/Resources/**" />
+  </ItemGroup>
+</Project>

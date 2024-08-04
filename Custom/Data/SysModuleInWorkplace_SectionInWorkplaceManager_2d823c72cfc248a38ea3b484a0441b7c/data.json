@@ -1,0 +1,26 @@
+﻿{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "Value": "2d823c72-cfc2-48a3-8ea3-b484a0441b7c"
+        },
+        {
+          "SchemaColumnUId": "0e3d3857-2203-40e4-b1ec-8e972007650e",
+          "Value": "812f6e26-2158-4481-8fca-e20f9e4afc57",
+          "DisplayValue": "General"
+        },
+        {
+          "SchemaColumnUId": "991cf5ef-ffb8-49a5-add3-074a595f6c43",
+          "Value": "bd48414a-68ed-4087-87df-dd59c51ae452",
+          "DisplayValue": "نوع الاجازة"
+        },
+        {
+          "SchemaColumnUId": "bd12ea8e-2bc2-42bf-925a-3ab766cc0b9f",
+          "Value": 12
+        }
+      ]
+    }
+  ]
+}

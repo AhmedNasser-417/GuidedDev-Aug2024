@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;تسليم العهد&quot;" />
+			<Item Name="LocalizableStrings.Tabed116e79TabLabelGroup2700ad1eGroupCaption.Value" Value="بياات طلب التلسليم" />
+			<Item Name="LocalizableStrings.Tabed116e79TabLabelTabCaption.Value" Value="طلب التلسليم" />
+		</Items>
+	</Group>
+</Resources>

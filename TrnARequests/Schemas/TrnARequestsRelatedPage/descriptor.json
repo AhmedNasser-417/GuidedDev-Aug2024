@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "db146cd6-a181-4c24-8d09-c35d6bacdb4d",
+    "Name": "TrnARequestsRelatedPage",
+    "ModifiedOnUtc": "\/Date(1720501626000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Requests (Page settings)",
+    "DependsOn": []
+  }
+}

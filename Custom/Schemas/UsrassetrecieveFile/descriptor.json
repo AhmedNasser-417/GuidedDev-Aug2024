@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c8230106-9c6e-4734-a5d7-cf2184450f97",
+    "Name": "UsrassetrecieveFile",
+    "ModifiedOnUtc": "\/Date(1718049821000)\/",
+    "Parent": {
+      "UId": "556c5867-60a7-4456-aae1-a57a122bef70",
+      "Name": "File"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "تسليم العهد attachment",
+    "DependsOn": []
+  }
+}

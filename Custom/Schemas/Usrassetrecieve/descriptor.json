@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "2dec18e7-90a4-40ba-b391-01885f9d36e4",
+    "Name": "Usrassetrecieve",
+    "ModifiedOnUtc": "\/Date(1718050429000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "طلبات العهده",
+    "DependsOn": []
+  }
+}

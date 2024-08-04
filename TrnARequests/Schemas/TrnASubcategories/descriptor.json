@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "1441617e-0558-49a3-878c-8b486f2cb63a",
+    "Name": "TrnASubcategories",
+    "ModifiedOnUtc": "\/Date(1720515256000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Subcategories",
+    "DependsOn": []
+  }
+}

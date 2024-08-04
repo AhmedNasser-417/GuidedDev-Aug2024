@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "c1e71ccb-fd70-43ae-bd44-7895dcb1c059",
+    "Name": "Usrreqholiday1Page",
+    "ModifiedOnUtc": "\/Date(1720428553000)\/",
+    "Parent": {
+      "UId": "d62293c0-7f14-44b1-b547-735fb40499cd",
+      "Name": "BaseModulePageV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Edit page: \"طلبات الاجازة\"",
+    "DependsOn": []
+  }
+}

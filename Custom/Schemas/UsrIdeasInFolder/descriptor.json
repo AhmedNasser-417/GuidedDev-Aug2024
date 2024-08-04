@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e76c80d2-5262-4ff0-9bb5-0e378026bb68",
+    "Name": "UsrIdeasInFolder",
+    "ModifiedOnUtc": "\/Date(1717581424000)\/",
+    "Parent": {
+      "UId": "4f63bafb-e9e7-4082-b92e-66b97c14017c",
+      "Name": "BaseItemInFolder"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Ideas in Folder",
+    "DependsOn": []
+  }
+}

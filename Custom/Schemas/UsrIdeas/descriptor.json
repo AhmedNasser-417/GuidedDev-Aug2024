@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "ffe1caf7-29f5-413e-8002-46f2c2e7edba",
+    "Name": "UsrIdeas",
+    "ModifiedOnUtc": "\/Date(1717619608000)\/",
+    "Parent": {
+      "UId": "1bab9dcf-17d5-49f8-9536-8e0064f1dce0",
+      "Name": "BaseEntity"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Ideas",
+    "DependsOn": []
+  }
+}

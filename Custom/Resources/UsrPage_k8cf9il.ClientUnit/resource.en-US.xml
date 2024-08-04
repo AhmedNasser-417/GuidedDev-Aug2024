@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="احصائيات الاجهزة" />
+			<Item Name="LocalizableStrings.ChartWidget_p55fqzh_series_0.Value" Value="الاجهزة" />
+			<Item Name="LocalizableStrings.ChartWidget_p55fqzh_title.Value" Value="New chart" />
+		</Items>
+	</Group>
+</Resources>

@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "e85e2f62-2378-4b92-9bdb-9430cd47da50",
+    "Name": "Usrtypeassets",
+    "ModifiedOnUtc": "\/Date(1717842303000)\/",
+    "Parent": {
+      "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
+      "Name": "BaseLookup"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "انواع الاجهزة",
+    "DependsOn": []
+  }
+}

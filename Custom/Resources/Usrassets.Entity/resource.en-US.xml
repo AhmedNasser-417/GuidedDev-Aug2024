@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Assets" />
+			<Item Name="Columns.UsrBoolean1.Caption" Value="الشروط والاحكام" />
+			<Item Name="Columns.UsrCodeCamera.Caption" Value="Code Camera" />
+			<Item Name="Columns.UsrDateStart.Caption" Value="Date Start" />
+			<Item Name="Columns.UsrDatetime1.Caption" Value="تاريخ الاستلام" />
+			<Item Name="Columns.UsrDeviceCode.Caption" Value="Device Code" />
+			<Item Name="Columns.UsrFloat1.Caption" Value="سعر الجهاز" />
+			<Item Name="Columns.UsrInWork.Caption" Value="In Work" />
+			<Item Name="Columns.UsrLookup1.Caption" Value="نوع الجهاز" />
+			<Item Name="Columns.UsrName.Caption" Value="Name" />
+			<Item Name="Columns.UsrNotes.Caption" Value="Notes" />
+			<Item Name="Columns.UsrPrice.Caption" Value="Price" />
+			<Item Name="Columns.UsrString1.Caption" Value="كود الجهاذ" />
+		</Items>
+	</Group>
+</Resources>

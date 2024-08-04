@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Resources Culture="en-US">
+	<Group Type="String">
+		<Items>
+			<Item Name="Caption" Value="Edit page: &quot;طلبات الاجازة&quot;" />
+			<Item Name="LocalizableStrings.Tab41be7cb1TabLabelGroupa7241759GroupCaption.Value" Value="انشاء طلب" />
+			<Item Name="LocalizableStrings.Tab41be7cb1TabLabelTabCaption.Value" Value="طلب اجازة" />
+		</Items>
+	</Group>
+</Resources>

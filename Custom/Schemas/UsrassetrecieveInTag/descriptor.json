@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "acb3eea1-fa9b-44f0-ab45-39a9c5eb53ad",
+    "Name": "UsrassetrecieveInTag",
+    "ModifiedOnUtc": "\/Date(1718049846000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "تسليم العهد section record tag",
+    "DependsOn": []
+  }
+}

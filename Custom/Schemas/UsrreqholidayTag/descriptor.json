@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "cef7c001-4272-442c-80da-18f8d6dfb95d",
+    "Name": "UsrreqholidayTag",
+    "ModifiedOnUtc": "\/Date(1719999695000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "طلبات الاجازة section tag",
+    "DependsOn": []
+  }
+}

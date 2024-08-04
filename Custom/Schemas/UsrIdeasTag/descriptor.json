@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "5c3327a7-a77c-41f9-8b80-a3642c8be537",
+    "Name": "UsrIdeasTag",
+    "ModifiedOnUtc": "\/Date(1717581430000)\/",
+    "Parent": {
+      "UId": "9e3f203c-e905-4de5-9468-335b193f2439",
+      "Name": "BaseTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "Ideas section tag",
+    "DependsOn": []
+  }
+}

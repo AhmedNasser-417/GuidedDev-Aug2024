@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "fcb7db02-3c5d-4926-9882-869efb3ac0b6",
+    "Name": "UsrassetsInTag",
+    "ModifiedOnUtc": "\/Date(1717842340000)\/",
+    "Parent": {
+      "UId": "5894a2b0-51d5-419a-82bb-238674634270",
+      "Name": "BaseEntityInTag"
+    },
+    "ManagerName": "EntitySchemaManager",
+    "Caption": "الاجهزة section record tag",
+    "DependsOn": []
+  }
+}

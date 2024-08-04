@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "360e7872-9399-4680-b952-02530bb45c16",
+    "Name": "TrnARequests_Detail",
+    "ModifiedOnUtc": "\/Date(1720501626000)\/",
+    "Parent": {
+      "UId": "01eb38ee-668a-42f0-999d-c2534f979089",
+      "Name": "BaseGridDetailV2"
+    },
+    "ManagerName": "ClientUnitSchemaManager",
+    "Caption": "Requests detail",
+    "DependsOn": []
+  }
+}
